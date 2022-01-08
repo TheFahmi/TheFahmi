@@ -1,6 +1,8 @@
 ### Hi there 👋
 
+<div style="text-align: center">
 <img src="https://github-readme-stats.vercel.app/api?username=TheFahmi&show_icons=true&theme=midnight-purple">
+</div>
 
 <!-- <p>Total Visitor</p> -->
 <!-- <img src="https://profile-counter.glitch.me/TheFahmi/count.svg" /> -->
