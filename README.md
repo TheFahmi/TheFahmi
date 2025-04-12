@@ -1,40 +1,81 @@
-### Hi there 👋
+# 👨‍💻 M Fahmi Hassan | Full Stack Developer
 
-<div style="text-align: center">
-<img src="https://github-readme-stats.vercel.app/api?username=TheFahmi&show_icons=true&theme=midnight-purple">
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=27&duration=3000&pause=1000&color=6A5ACD&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Web+Application+Expert;Bot+Developer;UI%2FUX+Enthusiast" alt="Typing SVG" />
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=TheFahmi&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=TheFahmi&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 </div>
 
-<!-- <p>Total Visitor</p> -->
-<!-- <img src="https://profile-counter.glitch.me/TheFahmi/count.svg" /> -->
+## 🚀 About Me
 
-<!-- ## Hi there , My name is Andhika D. Maulana 👋
+Passionate Full Stack Developer with expertise in building web applications, automation systems, and bot development. I enjoy creating elegant solutions to complex problems and continuously learning new technologies to enhance my skill set.
 
-- 🔭 I’m 21 years old 
-- 🌱 I’m so Interested to learning Javascript 🤣
-- ⚡ I love playing a video game and watching anime 🤣
- -->
-<details>
-  <summary><b>Connect with me</b></summary>
-  <p align="center">
-    <i>Let's connect and chat! We are about to Change the World.</i><br><br>
-    <a href="https://twitter.com/TheFahmi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="F A H M I" height="30" width="40" /></a>
-    <a href="https://fb.com/Muhammad.Fahmi.Hassan.OFFICIAL" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Muhammad Fahmi Hassan" height="30" width="40" /></a>
-    <a href="https://instagram.com/TheFahmiHassan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="M Fahmi Hassan" height="30" width="40" /></a>
-  </p>
-</details>
+- 🔭 Currently working on **FahmiBot** and **Laundry Management Systems**
+- 🌱 Learning and improving my skills in **React.js**, **Node.js**, and **Bot Development**
+- 💼 Experience with e-commerce platforms and company profile websites
+- 🎯 Goal-oriented developer focused on creating efficient and user-friendly applications
 
+## 💻 Tech Stack
 
-<!--
-**TheFahmi/TheFahmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  
+  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+  ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+  ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+  
+</div>
 
-Here are some ideas to get you started:
+## 🏆 Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <a href="https://github.com/TheFahmi/FahmiBot">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TheFahmi&repo=FahmiBot&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/TheFahmi/Laundry-Systems">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TheFahmi&repo=Laundry-Systems&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/TheFahmi/PwdFinalExam">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TheFahmi&repo=PwdFinalExam&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/TheFahmi/Company-Profile-1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TheFahmi&repo=Company-Profile-1&theme=tokyonight&hide_border=true" />
+  </a>
+</div>
+
+## 📊 GitHub Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TheFahmi&theme=tokyo-night&hide_border=true" width="100%"/>
+</div>
+
+## 🌐 Connect with me
+
+<div align="center">
+  <a href="https://twitter.com/TheFahmi">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://fb.com/Muhammad.Fahmi.Hassan.OFFICIAL">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="https://instagram.com/TheFahmiHassan">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://github.com/TheFahmi">
+    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=TheFahmi&style=flat-square&color=6A5ACD" alt="Profile views" />
+  
+  <p>⭐️ From <a href="https://github.com/TheFahmi">TheFahmi</a></p>
+</div>
