@@ -49,8 +49,8 @@ Passionate Full Stack Developer with expertise in building web applications, aut
   <table>
     <tr>
       <td>
-        <a href="https://github.com/TheFahmi/FahmiBot">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=TheFahmi&repo=FahmiBot&theme=tokyonight&hide_border=true" />
+        <a href="https://github.com/TheFahmi/imphnen">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=TheFahmi&repo=imphnen&theme=tokyonight&hide_border=true" />
         </a>
       </td>
       <td>
@@ -61,13 +61,13 @@ Passionate Full Stack Developer with expertise in building web applications, aut
     </tr>
     <tr>
       <td>
-        <a href="https://github.com/TheFahmi/PwdFinalExam">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=TheFahmi&repo=PwdFinalExam&theme=tokyonight&hide_border=true" />
+        <a href="https://github.com/TheFahmi/my-portfolio">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=TheFahmi&repo=my-portfolio&theme=tokyonight&hide_border=true" />
         </a>
       </td>
       <td>
-        <a href="https://github.com/TheFahmi/Company-Profile-1">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=TheFahmi&repo=Company-Profile-1&theme=tokyonight&hide_border=true" />
+        <a href="https://github.com/TheFahmi/fahmi-user-search">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=TheFahmi&repo=fahmi-user-search&theme=tokyonight&hide_border=true" />
         </a>
       </td>
     </tr>
