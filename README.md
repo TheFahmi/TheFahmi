@@ -78,7 +78,7 @@ Passionate Full Stack Developer with expertise in building web applications, aut
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=TheFahmi&theme=tokyo-night&hide_border=true" width="100%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheFahmi&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&exclude_repo=things-bin-aws,kuyrek-pkl&hide=hcl,html,css,less,scss,jupyter%20notebook,blade,pug"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheFahmi&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&hide=hcl,html,css,less,scss,jupyter%20notebook,blade,pug,mdx"/>
 </div>
 
 ## 🌐 Connect with me
