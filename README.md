@@ -19,7 +19,7 @@
 
 ## 🚀 About Me
 
-Passionate Full Stack Developer with expertise in building web applications, automation systems, and bot development. I enjoy creating elegant solutions to complex problems and continuously learning new technologies to enhance my skill set.
+A passionate full stack developer who specialises in the creation of web applications, automation systems, and bots. I relish the opportunity to construct sophisticated solutions to intricate issues and learn new technologies that augment my skill set.
 
 - 🔭 Currently working on **FahmiBot** and **Laundry Management Systems**
 - 🌱 Learning and improving my skills in **React.js**, **Node.js**, and **Bot Development**
