@@ -1,160 +1,158 @@
-# 👨‍💻 M Fahmi Hassan | Full Stack Developer
+# 👨‍💻 M Fahmi Hassan
+## Full Stack Developer & Software Engineer
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=27&duration=3000&pause=1000&color=6A5ACD&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Web+Application+Expert;Bot+Developer;UI%2FUX+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;5%2B+Years+Experience;React+%7C+Node.js+%7C+TypeScript;Building+Scalable+Applications" alt="Typing SVG" />
 </div>
+
+<div align="center">
+  
+[![GitHub followers](https://img.shields.io/github/followers/TheFahmi?style=for-the-badge&color=2F81F7)](https://github.com/TheFahmi)
+[![GitHub stars](https://img.shields.io/github/stars/TheFahmi?style=for-the-badge&color=2F81F7)](https://github.com/TheFahmi)
+[![Profile Views](https://komarev.com/ghpvc/?username=TheFahmi&style=for-the-badge&color=2F81F7)](https://github.com/TheFahmi)
+
+</div>
+
+## 🚀 About Me
+
+Passionate Full-Stack Developer from **Jakarta, Indonesia** with **5+ years** of experience creating scalable web applications. I specialize in modern JavaScript ecosystem and have a proven track record of delivering high-quality solutions across various industries.
+
+### 🎯 What I Do
+- 🔥 **Frontend Development**: Building responsive, accessible web applications with React, Next.js, and TypeScript
+- 🏗️ **Backend Development**: Designing RESTful APIs and microservices with Node.js and NestJS
+- 🎨 **UI/UX Design**: Creating intuitive user interfaces with modern design systems
+- 📱 **Progressive Web Apps**: Developing PWAs with offline capabilities
+- 🛡️ **Security**: Implementing secure authentication and authorization systems
+- 📊 **Data Analytics**: Building dashboards and data visualization tools
+
+## 💻 Technical Skills
 
 <div align="center">
   <table>
     <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=TheFahmi&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+      <td align="center" width="50%">
+        <h3>🎨 Frontend</h3>
+        <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind,materialui,html,css" />
       </td>
-      <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=TheFahmi&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+      <td align="center" width="50%">
+        <h3>⚙️ Backend</h3>
+        <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,postgresql,mongodb,prisma,graphql,redis" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <h3>🛠️ DevOps & Tools</h3>
+        <img src="https://skillicons.dev/icons?i=docker,git,github,vercel,aws,nginx,jest,cypress" />
+      </td>
+      <td align="center">
+        <h3>📱 Mobile & Others</h3>
+        <img src="https://skillicons.dev/icons?i=flutter,dart,figma,postman,vscode,linux,ubuntu,bash" />
       </td>
     </tr>
   </table>
 </div>
 
-[![GitHub followers](https://img.shields.io/github/followers/TheFahmi?style=social)](https://github.com/TheFahmi)
-[![GitHub stars](https://img.shields.io/github/stars/TheFahmi?style=social)](https://github.com/TheFahmi)
-[![Twitter Follow](https://img.shields.io/twitter/follow/TheFahmi?style=social)](https://twitter.com/TheFahmi)
+## 📊 GitHub Analytics
 
-## 🚀 About Me
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TheFahmi&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheFahmi&layout=compact&theme=github_dark&hide_border=true&langs_count=8"/>
+</div>
 
-I'm a passionate Full-Stack Developer based in **Jakarta, Indonesia** with over 5 years of experience building scalable web applications. I specialize in modern JavaScript frameworks and have a strong foundation in both frontend and backend technologies.
-
-### What I Do
-- 🔥 Build responsive web applications using React, Next.js, and Node.js
-- 🏗️ Design and implement RESTful APIs and microservices
-- 🎨 Create intuitive user interfaces with modern design systems
-- 📱 Develop progressive web applications (PWA)
-- 🛡️ Implement secure authentication and authorization systems
-- 📊 Build data visualization dashboards and analytics tools
-
-## 💻 Tech Stack
-
-### Frontend
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Material-UI](https://img.shields.io/badge/-Material%20UI-0081CB?style=flat-square&logo=material-ui&logoColor=white)
-
-### Backend
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-
-### DevOps & Tools
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheFahmi&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+</div>
 
 ## 🛠️ Featured Projects
 
 ### 🏢 [SPKN Company Profile](https://github.com/TheFahmi/SPKN-Company-Profile)
-A comprehensive company profile website built with Next.js and Material-UI, featuring:
-- **Modern Design System** with Storybook integration
-- **Responsive UI** with dark/light theme support
-- **Product Management** system with admin features
-- **SEO Optimization** and performance optimization
-- **Testing Suite** with Vitest and React Testing Library
+**Modern Company Website with Admin Panel**
+- Built with **Next.js**, **TypeScript**, and **Material-UI**
+- Features comprehensive product management system
+- Includes **Storybook** for component documentation
+- Optimized for **SEO** and **performance**
+- Complete **testing suite** with Vitest
 
-**Tech Stack:** Next.js, TypeScript, Material-UI, Storybook, MongoDB
+`Next.js` `TypeScript` `Material-UI` `MongoDB` `Storybook`
 
 ### 🧺 [Laundry Management System](https://github.com/TheFahmi/Laundry-Systems)
-A full-stack laundry management system with separate admin and customer portals:
-- **Backend API** built with NestJS and PostgreSQL
-- **Customer Portal** for order management and tracking
-- **Admin Dashboard** with comprehensive analytics
-- **Payment Integration** with secure transaction handling
-- **Real-time Notifications** and order tracking
+**Full-Stack Business Management Solution**
+- **Backend API** with NestJS and PostgreSQL
+- Separate customer and admin portals
+- Real-time order tracking and notifications
+- Integrated payment processing
+- **Docker** containerization
 
-**Tech Stack:** NestJS, Next.js, PostgreSQL, Material-UI, Docker
+`NestJS` `PostgreSQL` `Next.js` `Material-UI` `Docker`
 
 ### 🎬 [Bioskop Sandra](https://github.com/TheFahmi/bioskopsandra)
-A cinema booking system with modern UI and complete booking flow:
-- **Movie Browsing** with detailed information
-- **Seat Selection** with interactive cinema layout
-- **Booking Management** with PDF ticket generation
-- **Admin Panel** for movie and studio management
-- **Redux State Management** for complex data flow
+**Cinema Booking System**
+- Interactive seat selection interface
+- PDF ticket generation system
+- Redux state management
+- Comprehensive admin dashboard
+- Mobile-responsive design
 
-**Tech Stack:** React, Redux, JSON Server, Material-UI
+`React` `Redux` `Material-UI` `JSON Server`
 
 ### ⏰ [Pomodoro Timer](https://github.com/TheFahmi/pomodoro-timer)
-A productivity-focused Pomodoro timer with modern features:
-- **PWA Support** for offline usage
-- **Theme System** with dark/light modes
-- **Task Management** with drag-and-drop functionality
-- **Statistics Tracking** and productivity analytics
-- **Responsive Design** for all devices
+**Productivity PWA Application**
+- **Progressive Web App** with offline support
+- Advanced task management with drag-and-drop
+- Comprehensive productivity analytics
+- Modern animations with Framer Motion
+- Dark/light theme system
 
-**Tech Stack:** Next.js, TypeScript, Framer Motion, TailwindCSS
+`Next.js` `TypeScript` `TailwindCSS` `Framer Motion`
 
-## 📊 GitHub Stats
+## 🏆 Achievements & Recognition
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TheFahmi&theme=tokyo-night&hide_border=true" width="100%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheFahmi&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-profile-trophy.vercel.app/?username=TheFahmi&theme=github_dark&no-frame=true&row=1&column=6" alt="Trophy" />
 </div>
 
-## 🏆 GitHub Trophies
+- 🌟 **34+ Public Repositories** with diverse technology stacks
+- 👥 **Growing Developer Community** with 27+ followers
+- 📈 **Active Open Source Contributor** across multiple projects
+- 🔄 **5+ Years** of professional software development experience
+- 🎯 **High-Quality Code** with comprehensive testing coverage
+
+## 📈 Activity Graph
 
 <div align="center">
-
-![trophy](https://github-profile-trophy.vercel.app/?username=thefahmi&theme=radical&row=1&column=6)
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TheFahmi&theme=github-compact&hide_border=true" width="100%"/>
 </div>
 
-## 🏆 Achievements
-- 🌟 **34 Public Repositories** with diverse tech stacks
-- 👥 **27 Followers** and growing community
-- 📈 **Active Contributor** to open source projects
-- 🔄 **5+ Years** of software development experience
+## 🔭 Current Focus
 
-## 🎯 What I'm Currently Working On
+- 🚀 **Microservices Architecture**: Building scalable, distributed systems
+- 📱 **Cross-Platform Development**: Flutter and React Native applications
+- ☁️ **Cloud Technologies**: AWS and containerization with Docker
+- 🧠 **AI/ML Integration**: Implementing AI features in web applications
+- 🌐 **Open Source**: Contributing to community projects
 
-- 🚀 Building scalable microservices architecture
-- 📱 Developing cross-platform mobile applications
-- 🧠 Learning advanced DevOps practices
-- 🌐 Contributing to open source projects
-## 📫 Let's Connect!
+## 📫 Let's Connect
 
 <div align="center">
-  <p>
-    <a href="https://twitter.com/TheFahmi">
-      <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter" />
-    </a>
-    <a href="https://fb.com/Muhammad.Fahmi.Hassan.OFFICIAL">
-      <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook" />
-    </a>
-    <a href="https://instagram.com/TheFahmiHassan">
-      <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
-    </a>
-    <a href="https://github.com/TheFahmi">
-      <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-    </a>
-  </p>
+  <a href="https://twitter.com/TheFahmi">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://fb.com/Muhammad.Fahmi.Hassan.OFFICIAL">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="https://instagram.com/TheFahmiHassan">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://github.com/TheFahmi">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=TheFahmi&style=flat-square&color=6A5ACD" alt="Profile views" />
-
-  <p>⭐️ From <a href="https://github.com/TheFahmi">TheFahmi</a></p>
-</div>
-
----
-
-<div align="center">
-  <i>⚡ "Code is like humor. When you have to explain it, it's bad." - Cory House</i>
+  <h3>💫 "Clean code always looks like it was written by someone who cares."</h3>
+  <p><i>- Robert C. Martin</i></p>
+  
+  <p>⭐️ From <a href="https://github.com/TheFahmi">TheFahmi</a> • Made with ❤️ in Jakarta, Indonesia</p>
 </div>
