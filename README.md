@@ -106,6 +106,14 @@ A productivity-focused Pomodoro timer with modern features:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheFahmi&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+![trophy](https://github-profile-trophy.vercel.app/?username=thefahmi&theme=radical&row=1&column=6)
+
+</div>
+
 ## 🏆 Achievements
 - 🌟 **34 Public Repositories** with diverse tech stacks
 - 👥 **27 Followers** and growing community
