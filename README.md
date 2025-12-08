@@ -1,15 +1,15 @@
 # M Fahmi Hassan
-## Senior Full Stack Developer & Software Engineer
+## Full Stack Engineer & Team Lead
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=24&duration=3000&pause=1000&color=0066CC&center=true&vCenter=true&width=600&lines=Senior+Full+Stack+Developer;Enterprise+Software+Solutions;React+•+Node.js+•+TypeScript;Scalable+Architecture+Expert" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=24&duration=3000&pause=1000&color=0066CC&center=true&vCenter=true&width=600&lines=Full+Stack+Engineer;Tech+Lead+@+Rumah+Siap+Kerja;React+•+Vue+•+Next.js+•+Node.js;Scalable+Web+&+Mobile+Solutions" alt="Typing SVG" />
 </div>
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mfahmihassan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mfahmihassan)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://mfah.me)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:me@mfah.me)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello.fahmihassan@gmail.com)
 
 </div>
 
@@ -17,15 +17,14 @@
 
 ## 👨‍💼 Professional Summary
 
-Senior Full Stack Developer with **5+ years** of proven expertise in building enterprise-grade applications and leading development teams. Based in Jakarta, Indonesia, I specialize in creating scalable web solutions using modern technologies and architectural patterns. My experience spans from startup environments to enterprise-level projects, consistently delivering high-performance applications that drive business growth.
+Senior Full Stack Engineer and Team Lead with **5+ years** of experience, currently based in Jakarta, Indonesia. I specialize in the **MERN stack, Vue.js, and scaling complex web applications**. My career is defined by technical leadership, having led development teams to deliver major platforms like **Rumah Siap Kerja 3.0** and its back-office systems. I am passionate about transforming complex business requirements into seamless, high-performance web experiences.
 
 ### 🎯 Core Competencies
-- **Technical Leadership**: Leading development teams and architecting complex systems
-- **Full-Stack Development**: End-to-end application development with modern frameworks
-- **System Architecture**: Designing scalable, maintainable, and secure software solutions
-- **Performance Optimization**: Building high-performance applications with excellent UX
-- **DevOps & Deployment**: CI/CD pipelines, containerization, and cloud infrastructure
-- **Mentorship**: Training junior developers and establishing coding standards
+- **Technical Leadership**: Led a team of 5 developers, managing agile sprints and architectural decisions.
+- **Full-Stack Mastery**: Proficient in both React/Next.js and Vue/Nuxt.js ecosystems, plus Node.js backends.
+- **System Migration**: Successfully spearheaded the migration of large-scale legacy apps from Vue to React.
+- **Database Management**: Experienced with MySQL, MongoDB, and SQL Server.
+- **Mobile Development**: Cross-platform development using React Native and Flutter.
 
 ---
 
@@ -38,46 +37,45 @@ Senior Full Stack Developer with **5+ years** of proven expertise in building en
 ### Frontend Technologies
 ```javascript
 const frontend = {
-  frameworks: ['React', 'Next.js', 'Vue.js'],
-  languages: ['TypeScript', 'JavaScript', 'HTML5', 'CSS3'],
-  styling: ['Tailwind CSS', 'Material-UI', 'Styled Components'],
-  tools: ['Redux', 'Zustand', 'React Query', 'Webpack'],
-  testing: ['Jest', 'Cypress', 'React Testing Library']
+  frameworks: ['React', 'Next.js', 'Vue.js', 'Nuxt.js'],
+  languages: ['TypeScript', 'JavaScript (ES6+)'],
+  styling: ['TailwindCSS', 'SCSS/Less', 'Framer Motion'],
+  state: ['Redux', 'Context API', 'Pinia/Vuex'],
+  testing: ['Jest', 'Mocha', 'LambdaTest', 'Nightwatch']
 };
 ```
 
 ### Mobile Development
 ```dart
 const mobile = {
-  frameworks: ['Flutter', 'React Native'],
-  languages: ['Dart', 'TypeScript'],
-  tools: ['Firebase', 'Expo', 'Native APIs'],
-  deployment: ['App Store', 'Google Play']
+  frameworks: ['React Native', 'Flutter'],
+  languages: ['TypeScript', 'Dart', 'JavaScript'],
+  tools: ['Android Studio', 'Xcode'],
+  deployment: ['Play Store', 'App Store']
 };
 ```
 
 </td>
 <td valign="top" width="50%">
 
-### Backend Technologies
+### Backend & Database
 ```typescript
 const backend = {
-  frameworks: ['Node.js', 'NestJS', 'Express'],
-  databases: ['PostgreSQL', 'MongoDB', 'Redis'],
-  orm: ['Prisma', 'TypeORM', 'Mongoose'],
-  apis: ['REST', 'GraphQL', 'gRPC'],
-  auth: ['JWT', 'OAuth2', 'Passport.js']
+  runtime: ['Node.js', 'Bun'],
+  frameworks: ['Express', 'NestJS'],
+  databases: ['MySQL', 'MongoDB', 'SQL Server'],
+  architecture: ['RESTful API', 'Microservices'],
+  tools: ['Docker', 'Postman']
 };
 ```
 
-### DevOps & Infrastructure
+### Tools & Methods
 ```yaml
-devops:
-  containerization: [Docker, Kubernetes]
-  cloud_platforms: [AWS, Vercel, DigitalOcean]
-  ci_cd: [GitHub Actions, GitLab CI]
-  monitoring: [New Relic, Sentry, Prometheus]
-  web_servers: [Nginx, Apache]
+tools:
+  version_control: [Git, GitHub, GitLab]
+  project_management: [Jira, Agile/Scrum]
+  ci_cd: [GitHub Actions]
+  design: [Figma]
 ```
 
 </td>
@@ -88,83 +86,67 @@ devops:
 
 ## 🏗️ Featured Projects
 
-### 🏢 [Enterprise Company Management System](https://github.com/TheFahmi/SPKN-Company-Profile)
-**Full-Stack Business Solution with Admin Dashboard**
+### 🚀 [SMEs AI Hackathon Platform](https://github.com/TheFahmi/SMEs-hackathon-imphnen-kolosal-ai)
+**Multi-Tenant SaaS with AI Integration**
 
-**Technologies:** `Next.js` `TypeScript` `Material-UI` `MongoDB` `Storybook`
+**Technologies:** `Next.js` `TypeScript` `Docker` `AI Integration` `PostgreSQL`
 
-- Developed comprehensive company management platform with multi-role authentication
-- Implemented advanced product catalog with inventory management capabilities
-- Built component library with Storybook for consistent UI/UX across modules
-- Achieved 95+ PageSpeed score through performance optimization techniques
-- Integrated comprehensive testing suite with 90%+ code coverage
+- Multi-Tenant SaaS for UMKM Indonesia featuring WhatsApp Chatbot and Kolosal AI Customer Service.
+- Integrated complete business management tools for small enterprises.
+- utilized Docker for containerized deployment and scalability.
 
 **Key Features:**
-- 🔐 Role-based access control (Admin, Manager, Employee)
-- 📊 Real-time analytics dashboard with interactive charts
-- 📱 Fully responsive design with PWA capabilities
-- 🔍 Advanced search and filtering system
-- 📄 Automated report generation (PDF/Excel)
+- 🤖 AI Customer Service Integration
+- 💬 WhatsApp Chatbot Automation
+- 🏢 Multi-tenant Architecture
+- 📊 Comprehensive Business Dashboard
 
 ---
 
-### 🧺 [Laundry Business Management Platform](https://github.com/TheFahmi/Laundry-Systems)
-**Microservices Architecture with Real-time Capabilities**
+### 🏢 [Rumah Siap Kerja 3.0](https://rumahsiapkerja.com)
+**EdTech & Career Platform Redesign**
 
-**Technologies:** `NestJS` `PostgreSQL` `Next.js` `Docker` `Redis`
+**Technologies:** `React.js` `Next.js` `TypeScript` `TailwindCSS`
 
-- Architected scalable microservices solution handling 1000+ daily transactions
-- Implemented real-time order tracking with WebSocket connections
-- Built integrated payment gateway supporting multiple providers
-- Developed automated workflow system with email/SMS notifications
-- Deployed using Docker containers with load balancing
+- **Spearheaded the complete redesign** and development of the RSK 3.0 platform.
+- **Migrated technical stack** from Vue.js to React.js to improve scalability, performance, user experience, and developer velocity.
+- Led the implementation of modern atomic design principles.
 
 **Key Features:**
-- 🚀 Microservices architecture with API Gateway
-- 💳 Multi-payment gateway integration (Stripe, PayPal)
-- 📱 Customer mobile app with real-time tracking
-- 📈 Business intelligence dashboard with KPI metrics
-- 🔄 Automated inventory management system
+- 🎓 Interactive Course Player
+- 💳 Seamless Payment Integration
+- 📱 Responsive Mobile-First Design
+- ⚡ High Performance & SEO Optimized
 
 ---
 
-### 🎬 [Cinema Booking & Management System](https://github.com/TheFahmi/bioskopsandra)
-**Enterprise Ticketing Solution**
+### ⛽ [FuelMeter Mobile](https://github.com/TheFahmi/fuelmeter-mobile)
+**Vehicle Utility Application**
 
-**Technologies:** `React` `Redux` `Material-UI` `Node.js` `PostgreSQL`
+**Technologies:** `Dart` `Flutter`
 
-- Built complex seat selection system with real-time availability
-- Implemented dynamic pricing algorithms based on demand
-- Created comprehensive admin panel for theater management
-- Developed automated ticket generation with QR code integration
-- Optimized database queries for high-concurrency scenarios
+- A cross-platform mobile application for tracking vehicle fuel consumption, logs, and efficiency statistics.
+- Built with a focus on offline-first capability and smooth 60fps performance on both iOS and Android.
 
 **Key Features:**
-- 💺 Interactive seat map with real-time reservations
-- 🎟️ Digital ticket generation with QR codes
-- 💰 Dynamic pricing and promotional system
-- 📊 Revenue analytics and reporting
-- 🎭 Multi-theater management capabilities
+- 📉 Fuel Consumption Analytics
+- 📅 Service Log History
+- 📱 Cross-Platform (iOS & Android)
 
 ---
 
-### ⏰ [Professional Productivity Suite](https://github.com/TheFahmi/pomodoro-timer)
-**PWA with Advanced Task Management**
+### ⚙️ [RSK Back-office](https://mfah.me)
+**Internal Admin Management System**
 
-**Technologies:** `Next.js` `TypeScript` `TailwindCSS` `Framer Motion` `IndexedDB`
+**Technologies:** `Vue.js` `Nuxt.js` `TypeScript` `TailwindCSS`
 
-- Developed Progressive Web App with offline-first approach
-- Implemented sophisticated task management with drag-and-drop interface
-- Built comprehensive analytics system tracking productivity metrics
-- Created seamless animations and micro-interactions for enhanced UX
-- Optimized for mobile devices with native app-like experience
+- Developed a robust administrative back-office system to optimize internal workflows for the Rumah Siap Kerja team.
+- Streamlined content management for courses, users, and transactions.
 
 **Key Features:**
-- 📱 PWA with offline synchronization
-- 📈 Advanced productivity analytics
-- 🎨 Beautiful animations and transitions
-- 🌙 Smart theme system (dark/light/auto)
-- 🔔 Smart notification system
+- 👥 User Role Management
+- 📝 CMS for Educational Content
+- 📊 Transaction Reporting
 
 ---
 
@@ -187,72 +169,33 @@ devops:
 
 | Achievement | Description | Impact |
 |-------------|-------------|---------|
-| 🚀 **System Architecture** | Designed microservices handling 10k+ concurrent users | 99.9% uptime |
-| 📈 **Performance Optimization** | Improved application load times by 70% | Enhanced UX |
-| 👥 **Team Leadership** | Led cross-functional teams of 5+ developers | Delivered projects 20% faster |
-| 🔧 **Code Quality** | Maintained 90%+ test coverage across projects | Reduced bugs by 60% |
-| 🌟 **Open Source** | 35+ repositories with active community engagement | 100+ stars across projects |
+| 🔄 **Stack Migration** | Led migration of RSK platform from Vue to React | Enhanced Scalability & Perf |
+| 👥 **Team Leadership** | Managed a frontend team of 5 developers | Consistent Delivery |
+| 🚀 **Agile Implementation** | Implemented Sprint Planning & Retrospectives | Improved Team Velocity |
+| 📈 **Platform Scale** | Developed platforms serving thousands of users (RSK) | High Availability |
 
 </div>
 
 ---
 
-## 🎯 Current Focus & Goals
+## 🎯 Current Focus
 
 ```typescript
 const currentFocus = {
   2025: {
     learning: [
-      'Advanced Kubernetes orchestration',
-      'Machine Learning integration in web apps',
-      'Serverless architecture patterns',
-      'Web3 and blockchain technologies'
+      'Advanced AI/LLM Integration',
+      'System Architecture Patterns',
+      'Performance Profiling deeply'
     ],
-    projects: [
-      'Open source UI component library',
-      'Developer productivity tools',
-      'Enterprise SaaS solutions'
-    ],
-    certifications: [
-      'AWS Solutions Architect',
-      'Google Cloud Professional',
-      'Kubernetes Administrator'
+    goals: [
+      'Contributing more to Open Source',
+      'Building SaaS solutions for SMEs',
+      'Mentoring the next generation of devs'
     ]
   }
 };
 ```
-
-### 📚 Continuous Learning
-- 🤖 **AI/ML Integration**: Implementing intelligent features in web applications
-- ☁️ **Cloud Native**: Advanced containerization and serverless architectures
-- 🔒 **Security**: Application security and secure coding practices
-- 🌐 **Web3**: Blockchain integration and decentralized applications
-
----
-
-## 💼 Professional Services
-
-### 🔥 What I Offer
-- **Technical Consulting**: Architecture design and technology stack selection
-- **Full-Stack Development**: End-to-end application development
-- **Performance Audits**: Code review and optimization recommendations
-- **Team Mentorship**: Training and knowledge transfer programs
-- **Legacy System Modernization**: Migrating outdated systems to modern stacks
-
-### 🎯 Industry Experience
-- **E-commerce & Retail**: Payment systems, inventory management
-- **Healthcare**: Patient management systems, telemedicine platforms
-- **Education**: Learning management systems, student portals
-- **Fintech**: Banking applications, payment processing
-- **SaaS**: Multi-tenant applications, subscription management
-
----
-
-## 📈 Development Metrics
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TheFahmi&theme=minimal&hide_border=true&area=true" width="100%"/>
-</div>
 
 ---
 
@@ -261,13 +204,12 @@ const currentFocus = {
 <div align="center">
 
 ### Professional Networks
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mfahmihassan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mfahmihassan)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://mfah.me)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TheFahmi)
 
 ### Contact Information
-[![Email](https://img.shields.io/badge/Business_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:me@mfah.me)
-[![Schedule](https://img.shields.io/badge/Schedule_Meeting-4285F4?style=for-the-badge&logo=google-calendar&logoColor=white)](https://calendly.com/fahmi-hassan)
+[![Email](https://img.shields.io/badge/Business_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello.fahmihassan@gmail.com)
 
 </div>
 
@@ -275,12 +217,8 @@ const currentFocus = {
 
 <div align="center">
 
-### 💡 "The best code is not just functional, but elegant, maintainable, and scalable."
+### 💡 "Coding is not just about syntax, it's about solving problems."
 
-**Open for exciting opportunities • Available for consulting • Jakarta, Indonesia 🇮🇩**
-
----
-
-<sub>⚡ **Quick Response Time** • 🌏 **Remote-Friendly** • 🗣️ **English & Indonesian** • 📞 **GMT+7 Timezone**</sub>
+**Open for exciting opportunities • Jakarta, Indonesia 🇮🇩**
 
 </div>
