@@ -2,7 +2,7 @@
 ## Full Stack Engineer & Team Lead
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=24&duration=3000&pause=1000&color=0066CC&center=true&vCenter=true&width=600&lines=Full+Stack+Engineer;Tech+Lead+@+Rumah+Siap+Kerja;React+•+Vue+•+Next.js+•+Node.js;Scalable+Web+&+Mobile+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=24&duration=3000&pause=1000&color=0066CC&center=true&vCenter=true&width=600&lines=Full+Stack+Engineer+%26+Team+Lead;NestJS+•+Next.js+15+•+PostgreSQL+•+Docker;Building+SaaS+%26+AI-Powered+Products;Open+Source+Contributor" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -17,14 +17,14 @@
 
 ## 👨‍💼 Professional Summary
 
-Senior Full Stack Engineer and Team Lead with **5+ years** of experience, currently based in Jakarta, Indonesia. I specialize in the **MERN stack, Vue.js, and scaling complex web applications**. My career is defined by technical leadership, having led development teams to deliver major platforms like **Rumah Siap Kerja 3.0** and its back-office systems. I am passionate about transforming complex business requirements into seamless, high-performance web experiences.
+Senior Full Stack Engineer and Team Lead with **6+ years** of experience, based in Jakarta, Indonesia. I build **production SaaS platforms** — from AI-powered content tools ([Merdu.id](https://merdu.id)) to multi-account trading dashboards ([TradeForge](https://trade.1mr.tech)). My stack centers on **NestJS, Next.js, PostgreSQL, and Docker**, with growing expertise in **AI/LLM integration** and **multi-server infrastructure**. I also maintain [OMO Suites](https://github.com/TheFahmi/omo-suites-installer), an open-source toolkit for multi-model AI agent orchestration.
 
 ### 🎯 Core Competencies
-- **Technical Leadership**: Led a team of 5 developers, managing agile sprints and architectural decisions.
-- **Full-Stack Mastery**: Proficient in both React/Next.js and Vue/Nuxt.js ecosystems, plus Node.js backends.
-- **System Migration**: Successfully spearheaded the migration of large-scale legacy apps from Vue to React.
-- **Database Management**: Experienced with MySQL, MongoDB, and SQL Server.
-- **Mobile Development**: Cross-platform development using React Native and Flutter.
+- **SaaS Architecture**: Multi-tenant platforms with real-time features, payment systems, and API integrations.
+- **AI/LLM Integration**: Multi-model orchestration, MCP Protocol, AI-powered product features.
+- **Technical Leadership**: Led teams of 5+ developers through major platform builds and stack migrations.
+- **DevOps & Infrastructure**: Docker, Nginx, PM2, multi-server deployments, Tailscale networking.
+- **Full-Stack Mastery**: React/Next.js + Vue/Nuxt.js frontends, NestJS backends, PostgreSQL databases.
 
 ---
 
@@ -37,36 +37,38 @@ Senior Full Stack Engineer and Team Lead with **5+ years** of experience, curren
 ### Frontend Technologies
 ```javascript
 const frontend = {
-  frameworks: ['React', 'Next.js', 'Vue.js', 'Nuxt.js'],
+  frameworks: ['React', 'Next.js 15', 'Vue.js', 'Nuxt.js'],
   languages: ['TypeScript', 'JavaScript (ES6+)'],
-  styling: ['TailwindCSS', 'SCSS/Less', 'Framer Motion'],
-  state: ['Redux', 'Context API', 'Pinia/Vuex'],
-  testing: ['Jest', 'Mocha', 'LambdaTest', 'Nightwatch']
+  styling: ['TailwindCSS v4', 'SCSS', 'Framer Motion'],
+  state: ['Redux', 'Zustand', 'Pinia/Vuex'],
+  testing: ['Vitest', 'Playwright', 'Jest']
 };
 ```
 
-### Mobile Development
-```dart
-const mobile = {
-  frameworks: ['React Native', 'Flutter'],
-  languages: ['TypeScript', 'Dart', 'JavaScript'],
-  tools: ['Android Studio', 'Xcode'],
-  deployment: ['Play Store', 'App Store']
+### Backend & Database
+```typescript
+const backend = {
+  runtime: ['Node.js', 'Bun'],
+  frameworks: ['NestJS', 'Express', 'Hono'],
+  databases: ['PostgreSQL', 'MySQL', 'MongoDB', 'Redis'],
+  orm: ['TypeORM', 'Prisma'],
+  architecture: ['RESTful API', 'Microservices', 'Event-Driven'],
+  ai: ['LLM Integration', 'Multi-Model Orchestration', 'MCP Protocol']
 };
 ```
 
 </td>
 <td valign="top" width="50%">
 
-### Backend & Database
-```typescript
-const backend = {
-  runtime: ['Node.js', 'Bun'],
-  frameworks: ['Express', 'NestJS'],
-  databases: ['MySQL', 'MongoDB', 'SQL Server'],
-  architecture: ['RESTful API', 'Microservices'],
-  tools: ['Docker', 'Postman']
-};
+### Infrastructure & DevOps
+```yaml
+infrastructure:
+  containers: [Docker, Docker Compose]
+  servers: [Nginx, PM2, Coolify]
+  cloud: [Oracle Cloud, Vercel, Cloudflare]
+  networking: [Tailscale, VPN]
+  monitoring: [Grafana, PM2 Plus]
+  ci_cd: [GitHub Actions]
 ```
 
 ### Tools & Methods
@@ -74,8 +76,8 @@ const backend = {
 tools:
   version_control: [Git, GitHub, GitLab]
   project_management: [Jira, Agile/Scrum]
-  ci_cd: [GitHub Actions]
   design: [Figma]
+  api: [Postman, Swagger/OpenAPI]
 ```
 
 </td>
@@ -86,20 +88,54 @@ tools:
 
 ## 🏗️ Featured Projects
 
-### 🚀 [SMEs AI Hackathon Platform](https://github.com/TheFahmi/SMEs-hackathon-imphnen-kolosal-ai)
-**Multi-Tenant SaaS with AI Integration**
+### 🤖 [OMO Suites](https://github.com/TheFahmi/omo-suites-installer)
+**OpenCode Plugin & CLI Toolkit for Multi-Model AI Agent Orchestration**
 
-**Technologies:** `Next.js` `TypeScript` `Docker` `AI Integration` `PostgreSQL`
+**Technologies:** `TypeScript` `Bun` `OpenCode Plugin API`
 
-- Multi-Tenant SaaS for UMKM Indonesia featuring WhatsApp Chatbot and Kolosal AI Customer Service.
-- Integrated complete business management tools for small enterprises.
-- utilized Docker for containerized deployment and scalability.
+- Open-source toolkit that turns OpenCode into a full AI agent orchestration platform.
+- Ships with **13 profiles, 15 specialized agents, and 32 task categories** out of the box.
+- Includes TUI dashboard, slash commands, and agent-to-agent delegation.
 
 **Key Features:**
-- 🤖 AI Customer Service Integration
-- 💬 WhatsApp Chatbot Automation
-- 🏢 Multi-tenant Architecture
-- 📊 Comprehensive Business Dashboard
+- 🧠 Multi-model orchestration (Claude, GPT, Gemini, local models)
+- 🎛️ TUI dashboard with real-time agent monitoring
+- ⚡ Slash commands for quick agent dispatch
+- 📦 One-line installer with auto-configuration
+
+---
+
+### 🎵 [Merdu.id](https://merdu.id)
+**SaaS Platform for Content Creators**
+
+**Technologies:** `NestJS` `Next.js 15` `PostgreSQL` `Docker` `Redis`
+
+- Multi-tenant SaaS platform helping content creators manage, clip, and distribute their content.
+- Features an AI-powered Auto-Clipper for automated content repurposing.
+- Integrated WhatsApp notifications and payment processing.
+
+**Key Features:**
+- ✂️ Auto-Clipper AI for content repurposing
+- 💬 WhatsApp integration for notifications & delivery
+- 🏢 Multi-tenant architecture with role-based access
+- 💳 Payment gateway integration
+
+---
+
+### 📈 [TradeForge](https://trade.1mr.tech)
+**Multi-Account MT5 Trading Dashboard SaaS**
+
+**Technologies:** `NestJS` `Next.js 15` `PostgreSQL` `Docker` `WebSocket`
+
+- Real-time trading dashboard for managing multiple MT5 accounts from a single interface.
+- WebSocket-powered live trade monitoring with webhook integration for alerts.
+- Built for professional traders who need consolidated analytics across accounts.
+
+**Key Features:**
+- 📊 Real-time trade monitoring via WebSocket
+- 🔗 Webhook integration for trade alerts
+- 📉 Cross-account analytics & reporting
+- 🔐 Secure multi-account management
 
 ---
 
@@ -109,8 +145,8 @@ tools:
 **Technologies:** `React.js` `Next.js` `TypeScript` `TailwindCSS`
 
 - **Spearheaded the complete redesign** and development of the RSK 3.0 platform.
-- **Migrated technical stack** from Vue.js to React.js to improve scalability, performance, user experience, and developer velocity.
-- Led the implementation of modern atomic design principles.
+- **Led stack migration** from Vue.js to React.js, improving scalability and developer velocity.
+- Managed a frontend team of 5 developers through the entire lifecycle.
 
 **Key Features:**
 - 🎓 Interactive Course Player
@@ -120,33 +156,19 @@ tools:
 
 ---
 
-### ⛽ [FuelMeter Mobile](https://github.com/TheFahmi/fuelmeter-mobile)
-**Vehicle Utility Application**
+### 🚀 [SMEs AI Hackathon Platform](https://github.com/TheFahmi/SMEs-hackathon-imphnen-kolosal-ai)
+**Multi-Tenant SaaS with AI Integration**
 
-**Technologies:** `Dart` `Flutter`
+**Technologies:** `Next.js` `TypeScript` `Docker` `PostgreSQL` `AI Integration`
 
-- A cross-platform mobile application for tracking vehicle fuel consumption, logs, and efficiency statistics.
-- Built with a focus on offline-first capability and smooth 60fps performance on both iOS and Android.
-
-**Key Features:**
-- 📉 Fuel Consumption Analytics
-- 📅 Service Log History
-- 📱 Cross-Platform (iOS & Android)
-
----
-
-### ⚙️ [RSK Back-office](https://mfah.me)
-**Internal Admin Management System**
-
-**Technologies:** `Vue.js` `Nuxt.js` `TypeScript` `TailwindCSS`
-
-- Developed a robust administrative back-office system to optimize internal workflows for the Rumah Siap Kerja team.
-- Streamlined content management for courses, users, and transactions.
+- Multi-Tenant SaaS for Indonesian SMEs featuring WhatsApp Chatbot and Kolosal AI Customer Service.
+- Integrated complete business management tools for small enterprises.
 
 **Key Features:**
-- 👥 User Role Management
-- 📝 CMS for Educational Content
-- 📊 Transaction Reporting
+- 🤖 AI Customer Service Integration
+- 💬 WhatsApp Chatbot Automation
+- 🏢 Multi-tenant Architecture
+- 📊 Comprehensive Business Dashboard
 
 ---
 
@@ -170,9 +192,9 @@ tools:
 | Achievement | Description | Impact |
 |-------------|-------------|---------|
 | 🔄 **Stack Migration** | Led migration of RSK platform from Vue to React | Enhanced Scalability & Perf |
-| 👥 **Team Leadership** | Managed a frontend team of 5 developers | Consistent Delivery |
-| 🚀 **Agile Implementation** | Implemented Sprint Planning & Retrospectives | Improved Team Velocity |
-| 📈 **Platform Scale** | Developed platforms serving thousands of users (RSK) | High Availability |
+| 👥 **Team Leadership** | Managed a frontend team of 5 developers | Consistent On-Time Delivery |
+| 🤖 **Open Source** | Created OMO Suites — AI agent orchestration toolkit | 13 profiles, 15 agents |
+| 🏗️ **SaaS Architecture** | Built multi-tenant platforms (Merdu.id, TradeForge) | Production-grade SaaS |
 
 </div>
 
@@ -182,16 +204,21 @@ tools:
 
 ```typescript
 const currentFocus = {
-  2025: {
-    learning: [
-      'Advanced AI/LLM Integration',
-      'System Architecture Patterns',
-      'Performance Profiling deeply'
+  2026: {
+    building: [
+      'AI-powered SaaS products',
+      'Multi-model agent orchestration (OMO Suites)',
+      'Algorithmic trading systems',
     ],
-    goals: [
-      'Contributing more to Open Source',
-      'Building SaaS solutions for SMEs',
-      'Mentoring the next generation of devs'
+    exploring: [
+      'MCP Protocol & Plugin Systems',
+      'Edge computing & distributed systems',
+      'Open source community building',
+    ],
+    shipping: [
+      'Merdu.id — content creator platform',
+      'TradeForge — trading dashboard SaaS',
+      'OMO Suites — OpenCode toolkit',
     ]
   }
 };
@@ -217,8 +244,8 @@ const currentFocus = {
 
 <div align="center">
 
-### 💡 "Coding is not just about syntax, it's about solving problems."
+### 💡 "Ship it, learn from it, ship it better."
 
-**Open for exciting opportunities • Jakarta, Indonesia 🇮🇩**
+**Building SaaS products & open source tools • Jakarta, Indonesia 🇮🇩**
 
 </div>
