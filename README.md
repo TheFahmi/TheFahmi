@@ -2,7 +2,7 @@
 ## Full Stack Engineer & Team Lead
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=24&duration=3000&pause=1000&color=0066CC&center=true&vCenter=true&width=600&lines=Full+Stack+Engineer+%26+Team+Lead;NestJS+•+Next.js+15+•+PostgreSQL+•+Docker;Building+SaaS+%26+AI-Powered+Products;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=24&duration=3000&pause=1000&color=0066CC&center=true&vCenter=true&width=600&lines=Full+Stack+Engineer+%26+Team+Lead;NestJS+•+Next.js+16+•+PostgreSQL+•+Docker;Building+SaaS+%26+AI-Powered+Products;Open+Source+Contributor" alt="Typing SVG" />
 </div>
 
 <div align="center">
