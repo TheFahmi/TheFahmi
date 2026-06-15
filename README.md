@@ -15,20 +15,22 @@
 
 ---
 
-## 👨‍💼 Professional Summary
+## Professional Summary
 
-Senior Full Stack Engineer and Team Lead with **6+ years** of experience, based in Jakarta, Indonesia. I build **production SaaS platforms** — from AI-powered content tools ([Merdu.id](https://merdu.id)) to multi-account trading dashboards ([TradeForge](https://trade.1mr.tech)). My stack centers on **NestJS, Next.js, PostgreSQL, and Docker**, with growing expertise in **AI/LLM integration** and **multi-server infrastructure**. I also maintain [OMO Suites](https://github.com/TheFahmi/omo-suites-installer), an open-source toolkit for multi-model AI agent orchestration.
+Senior Full Stack Engineer and Team Lead with **6+ years** of industry experience, based in Jakarta, Indonesia. I specialize in architecting and developing **production-grade SaaS platforms** — from AI-powered content tools ([Merdu.id](https://merdu.id)) to complex multi-account trading dashboards ([TradeForge](https://trade.1mr.tech)). 
 
-### 🎯 Core Competencies
-- **SaaS Architecture**: Multi-tenant platforms with real-time features, payment systems, and API integrations.
-- **AI/LLM Integration**: Multi-model orchestration, MCP Protocol, AI-powered product features.
-- **Technical Leadership**: Led teams of 5+ developers through major platform builds and stack migrations.
-- **DevOps & Infrastructure**: Docker, Nginx, PM2, multi-server deployments, Tailscale networking.
-- **Full-Stack Mastery**: React/Next.js + Vue/Nuxt.js frontends, NestJS backends, PostgreSQL databases.
+My core technology stack revolves around **NestJS, Next.js, PostgreSQL, and Docker**, complemented by a growing expertise in **AI/LLM orchestration** and **distributed infrastructure**. I am also the maintainer of [OMO Suites](https://github.com/TheFahmi/omo-suites-installer), an open-source toolkit designed for multi-model AI agent orchestration.
+
+### Core Competencies
+- **SaaS Architecture**: Architecting multi-tenant platforms with real-time capabilities, complex API integrations, and robust payment gateways.
+- **AI/LLM Integration**: Developing multi-model orchestrations, leveraging the MCP Protocol, and building AI-driven product features.
+- **Technical Leadership**: Directing engineering teams through critical platform builds, stack migrations, and agile product life cycles.
+- **DevOps & Infrastructure**: Designing multi-server deployments, managing containerized applications with Docker, Nginx, PM2, and Tailscale networking.
+- **Full-Stack Proficiency**: Delivering high-performance interfaces (React/Next.js, Vue/Nuxt.js) and scalable backends (NestJS, PostgreSQL).
 
 ---
 
-## 💼 Technical Expertise
+## Technical Expertise
 
 <table>
 <tr>
@@ -86,93 +88,93 @@ tools:
 
 ---
 
-## 🏗️ Featured Projects
+## Featured Projects
 
-### 🤖 [OMO Suites](https://github.com/TheFahmi/omo-suites-installer)
+### [OMO Suites](https://github.com/TheFahmi/omo-suites-installer)
 **OpenCode Plugin & CLI Toolkit for Multi-Model AI Agent Orchestration**
 
 **Technologies:** `TypeScript` `Bun` `OpenCode Plugin API`
 
-- Open-source toolkit that turns OpenCode into a full AI agent orchestration platform.
-- Ships with **13 profiles, 15 specialized agents, and 32 task categories** out of the box.
-- Includes TUI dashboard, slash commands, and agent-to-agent delegation.
+- An open-source toolkit transforming OpenCode into a comprehensive AI agent orchestration platform.
+- Shipped with **13 profiles, 15 specialized agents, and 32 task categories** out of the box.
+- Integrates a TUI dashboard, slash commands, and seamless agent-to-agent delegation logic.
 
 **Key Features:**
-- 🧠 Multi-model orchestration (Claude, GPT, Gemini, local models)
-- 🎛️ TUI dashboard with real-time agent monitoring
-- ⚡ Slash commands for quick agent dispatch
-- 📦 One-line installer with auto-configuration
+- Multi-model orchestration supporting Claude, GPT, Gemini, and local models.
+- TUI dashboard for real-time agent monitoring and execution control.
+- Automated slash commands for rapid agent dispatching.
+- Single-line installer with an auto-configuration pipeline.
 
 ---
 
-### 🎵 [Merdu.id](https://merdu.id)
+### [Merdu.id](https://merdu.id)
 **SaaS Platform for Content Creators**
 
 **Technologies:** `NestJS` `Next.js 15` `PostgreSQL` `Docker` `Redis`
 
-- Multi-tenant SaaS platform helping content creators manage, clip, and distribute their content.
-- Features an AI-powered Auto-Clipper for automated content repurposing.
-- Integrated WhatsApp notifications and payment processing.
+- A multi-tenant SaaS platform empowering content creators to manage, clip, and distribute media.
+- Incorporates an AI-powered Auto-Clipper for automated content repurposing and delivery.
+- Fully integrated with WhatsApp notifications and automated payment processing.
 
 **Key Features:**
-- ✂️ Auto-Clipper AI for content repurposing
-- 💬 WhatsApp integration for notifications & delivery
-- 🏢 Multi-tenant architecture with role-based access
-- 💳 Payment gateway integration
+- Auto-Clipper AI for seamless video and audio content repurposing.
+- Integrated WhatsApp API for real-time user notifications.
+- Multi-tenant data architecture enforcing role-based access control (RBAC).
+- Secure payment gateway integration for automated billing.
 
 ---
 
-### 📈 [TradeForge](https://trade.1mr.tech)
+### [TradeForge](https://trade.1mr.tech)
 **Multi-Account MT5 Trading Dashboard SaaS**
 
 **Technologies:** `NestJS` `Next.js 15` `PostgreSQL` `Docker` `WebSocket`
 
-- Real-time trading dashboard for managing multiple MT5 accounts from a single interface.
-- WebSocket-powered live trade monitoring with webhook integration for alerts.
-- Built for professional traders who need consolidated analytics across accounts.
+- A real-time trading dashboard designed for managing multiple MT5 accounts through a unified interface.
+- Utilizes WebSocket connections for live trade monitoring alongside webhook integration for critical alerts.
+- Engineered for professional traders requiring consolidated, low-latency analytics across diverse portfolios.
 
 **Key Features:**
-- 📊 Real-time trade monitoring via WebSocket
-- 🔗 Webhook integration for trade alerts
-- 📉 Cross-account analytics & reporting
-- 🔐 Secure multi-account management
+- Live trade monitoring utilizing low-latency WebSockets.
+- Webhook-based integration for automated trade alerts and notifications.
+- Comprehensive cross-account analytics and performance reporting.
+- Secure, scalable multi-account session management.
 
 ---
 
-### 🏢 [Rumah Siap Kerja 3.0](https://rumahsiapkerja.com)
+### [Rumah Siap Kerja 3.0](https://rumahsiapkerja.com)
 **EdTech & Career Platform Redesign**
 
 **Technologies:** `React.js` `Next.js` `TypeScript` `TailwindCSS`
 
-- **Spearheaded the complete redesign** and development of the RSK 3.0 platform.
-- **Led stack migration** from Vue.js to React.js, improving scalability and developer velocity.
-- Managed a frontend team of 5 developers through the entire lifecycle.
+- Directed the comprehensive redesign and technical overhaul of the RSK 3.0 platform.
+- Managed the foundational stack migration from Vue.js to React.js, significantly improving application scalability and developer velocity.
+- Mentored and led a frontend team of 5 engineers through the entire development lifecycle.
 
 **Key Features:**
-- 🎓 Interactive Course Player
-- 💳 Seamless Payment Integration
-- 📱 Responsive Mobile-First Design
-- ⚡ High Performance & SEO Optimized
+- Custom-built Interactive Course Player.
+- Seamless, multi-provider payment integration.
+- Responsive, mobile-first architectural approach.
+- Optimized for high performance and strict SEO compliance.
 
 ---
 
-### 🚀 [SMEs AI Hackathon Platform](https://github.com/TheFahmi/SMEs-hackathon-imphnen-kolosal-ai)
+### [SMEs AI Hackathon Platform](https://github.com/TheFahmi/SMEs-hackathon-imphnen-kolosal-ai)
 **Multi-Tenant SaaS with AI Integration**
 
 **Technologies:** `Next.js` `TypeScript` `Docker` `PostgreSQL` `AI Integration`
 
-- Multi-Tenant SaaS for Indonesian SMEs featuring WhatsApp Chatbot and Kolosal AI Customer Service.
-- Integrated complete business management tools for small enterprises.
+- Developed a multi-tenant SaaS application targeting Indonesian SMEs, highlighting an advanced WhatsApp Chatbot and Kolosal AI Customer Service.
+- Integrated an end-to-end suite of business management tools for small enterprise operations.
 
 **Key Features:**
-- 🤖 AI Customer Service Integration
-- 💬 WhatsApp Chatbot Automation
-- 🏢 Multi-tenant Architecture
-- 📊 Comprehensive Business Dashboard
+- Advanced AI Customer Service agent integration.
+- WhatsApp Chatbot automation for customer onboarding and support.
+- Secure and isolated multi-tenant architecture.
+- Comprehensive administrative and business dashboard.
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TheFahmi&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true&custom_title=GitHub%20Statistics"/>
@@ -185,22 +187,22 @@ tools:
 
 ---
 
-## 🏆 Professional Achievements
+## Professional Achievements
 
 <div align="center">
 
 | Achievement | Description | Impact |
 |-------------|-------------|---------|
-| 🔄 **Stack Migration** | Led migration of RSK platform from Vue to React | Enhanced Scalability & Perf |
-| 👥 **Team Leadership** | Managed a frontend team of 5 developers | Consistent On-Time Delivery |
-| 🤖 **Open Source** | Created OMO Suites — AI agent orchestration toolkit | 13 profiles, 15 agents |
-| 🏗️ **SaaS Architecture** | Built multi-tenant platforms (Merdu.id, TradeForge) | Production-grade SaaS |
+| **Stack Migration** | Architected the migration of the RSK platform from Vue.js to React.js. | Enhanced Scalability & Performance |
+| **Team Leadership** | Managed and mentored a frontend team of 5 software engineers. | Consistent, On-Time Delivery |
+| **Open Source** | Authored OMO Suites — an AI agent orchestration toolkit. | 13 profiles, 15 distinct agents |
+| **SaaS Architecture** | Built and scaled multi-tenant platforms (Merdu.id, TradeForge). | Production-grade SaaS Reliability |
 
 </div>
 
 ---
 
-## 🎯 Current Focus
+## Current Focus
 
 ```typescript
 const currentFocus = {
@@ -226,7 +228,7 @@ const currentFocus = {
 
 ---
 
-## 🤝 Let's Connect
+## Let's Connect
 
 <div align="center">
 
@@ -244,7 +246,7 @@ const currentFocus = {
 
 <div align="center">
 
-### 💡 "Ship it, learn from it, ship it better."
+### *"Ship it, learn from it, ship it better."*
 
 **Building SaaS products & open source tools • Jakarta, Indonesia 🇮🇩**
 
